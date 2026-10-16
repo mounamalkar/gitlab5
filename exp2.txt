@@ -1,0 +1,19 @@
+Our complete process is:
+
+1. Create repository
+       ↓
+2. Create a file
+       ↓
+3. Commit the file
+       ↓
+4. Create feature-branch
+       ↓
+5. Switch to feature-branch
+       ↓
+6. Make a change
+       ↓
+7. Commit the change
+       ↓
+8. Switch back to master
+       ↓
+9. Merge feature-branch into master
